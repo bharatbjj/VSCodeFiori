@@ -1,0 +1,11 @@
+{
+  "generator-app-fiori": {
+    "promptValues": {
+      "isODataConf": "Yes",
+      "ODataServer": "https://sapes5.sapdevcenter.com",
+      "serverClient": "002",
+      "userID": "s0010404105",
+      "password": "Bharat@1989"
+    }
+  }
+}

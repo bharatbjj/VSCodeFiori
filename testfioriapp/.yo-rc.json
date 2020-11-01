@@ -1,0 +1,17 @@
+{
+  "generator-app-fiori": {
+    "projectname": "testfioriapp",
+    "name_space": "bb.myapp.demo",
+    "name_space_slash": "bb/myapp/demo",
+    "isCDN": true,
+    "UI5Version": "1.78.11",
+    "ui5Path": "",
+    "ODataConf": {
+      "ODataServer": "https://sapes5.sapdevcenter.com",
+      "serverClient": "002",
+      "userID": "s0010404105",
+      "password": "Bharat@1989",
+      "ODataServiceURL": "/sap/opu/odata/sap/SEPMRA_PO_MAN"
+    }
+  }
+}
